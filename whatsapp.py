@@ -1,6 +1,6 @@
 from selenium import webdriver
 import time
-
+#install selenium
 PATH="C:\Program Files (x86)\Mozilla Firefox"
 driver = webdriver.Firefox(PATH)
 driver.get("https://web.whatsapp.com/")
