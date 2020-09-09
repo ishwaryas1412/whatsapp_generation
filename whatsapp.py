@@ -10,7 +10,7 @@ driver.maximize_window()
 text= "Dear "
 text2=", He is sleeping right now! He will reply to your texts when he gets up. BTW this is an auto generated reply from his bot. Thanks!"
 
-# Time provided to scan the QR code of Whatsapp Web
+# Time provided to scan the QR code of Whatsapp the web
 time.sleep(10)
 
 # List of names to which you want to send the message
