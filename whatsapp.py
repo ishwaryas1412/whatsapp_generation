@@ -14,7 +14,7 @@ text2=", He is sleeping right now! He will reply to your texts when he gets up. 
 time.sleep(10)
 
 # List of names to which you want to send the message
-namelist = ["Divyam Kalra","Vivek Raj","Mom"]
+namelist = ["Divyam Kalra","Vivek Raj","Mom"] #change with your contact names
 
 while(1):
     for name in namelist:
